@@ -10,11 +10,13 @@
 
 ### During the analysis of the results, it was essential to have carried out an in-depth study of the table of workers close to their retirement, since if this had not been done, the mistake of studying several retirement cases for the same worker could have been made (since several of them passed for different roles during their maturation within the company). As can be seen in the following lines of code, having made a small change to only study the last position in which each worker was developed made this study something deeper and more truthful.
 
-img 1 y 2
+![1](https://github.com/jjgomezg17/Pewlett-Hackard-Analysis/blob/main/Resources/Images/1.png)
+
+![2](https://github.com/jjgomezg17/Pewlett-Hackard-Analysis/blob/main/Resources/Images/2.png)
 
 ### It is also interesting to see how such long tables can be summarized when studying a single variable. For example, when studying how many workers of each title within the company retire, a complex table like the ones studied in the previous point is summarized to 7 positions. Making it clear which are the titles within the company that more staff will need to be hired promptly.
 
-img 3
+![3](https://github.com/jjgomezg17/Pewlett-Hackard-Analysis/blob/main/Resources/Images/3.png)
 
 ### In addition, it would have been interesting to study in depth the roles and the number of people in each one that must be hired. Well, if current workers and possible promotions or eliminations of roles are taken into account, the number of new people that the company must hire is much less in quantity. So if you compare this table with a seniority table to see promotions and a role relevance table to see which ones can be deleted, the company might actually see a number closer to what it needs for its workforce.
 
@@ -34,6 +36,6 @@ img 3
 
 #### Continuing with the ideas previously described, for example, the employees only born in 1952 and who would be retiring this year would be 16,981 as shown in the following table, which would give HR a more tangible idea of those employees close to their retirement and of which a replacement or promotion must be found to occupy his position. Definitely a lower number and much closer to reality for at least the next year.
 
-img 4
+![4](https://github.com/jjgomezg17/Pewlett-Hackard-Analysis/blob/main/Resources/Images/4.png)
 
 #### On the other hand, if workers who come from the upper limit of those who are going to retire to the upper limit of those previously studied are taken into account in the mentoring program, a little more than 186,000 possible mentors would be obtained who can who are willing to work their last years only part time and are willing to help future workers fit into their position, An offer of mentors that would cover more than double the demand for workers in the next 3 years, which means that many of them may be willing to be part of this program and perhaps at its best to have up to two mentors for each new worker. This can be seen in the "mentorship_eligibilty_1955_1965" table.
